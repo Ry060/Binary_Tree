@@ -1,8 +1,8 @@
 PENJELASAN
 
-package tree1b;
+    package tree1b;
 
-public class Main {
+    public class Main {
     public static void main(String[] args) {
         // Membuat objek BinarySearchTree (pohon BST kosong)
         BinarySearchTree bst = new BinarySearchTree();
